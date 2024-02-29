@@ -1,5 +1,5 @@
 # 99.eleven 9's after decimal
-That’s the availability aws has promised for this service, well way better than your crush’s reply
+That’s the availability aws has promised for s3 service, well way better than your crush’s reply
 
 - S3 is the 2nd most service introduced by aws
 - Each object in a s3 bucket can be up to 5 TB
